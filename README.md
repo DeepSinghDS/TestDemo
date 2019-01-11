@@ -2,7 +2,6 @@
 
 Use "# " to set Heading text like above.
 
-
 You can use "# " to "###### "
 
 **Bold Text**
